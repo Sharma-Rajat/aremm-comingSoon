@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "aremm"
-baseURL = "https://aremm.co"
+baseURL = "http://aremm.co"
 canonifyurls = true
 contentDir = "content"
 layoutDir = "layouts"
