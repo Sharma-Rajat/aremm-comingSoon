@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "aremm"
+baseURL = "https://aremm.co"
+canonifyurls = true
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
