@@ -5,3 +5,5 @@ canonifyurls = true
 contentDir = "content"
 layoutDir = "layouts"
 publishDir = "public"
+enableEmoji = true
+enableRobotsTXT = true

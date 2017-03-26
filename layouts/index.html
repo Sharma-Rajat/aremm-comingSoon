@@ -5,20 +5,12 @@
     <div class="container">
       <div class="subcontainer">
         <div class="center">
-          <h1>aremm</h1>
+          <h1>{{ "aremm :pencil2:" | emojify }}</h1>
           <h2>WEB DEV. &amp; DESIGN</h2>
           <hr>
           <p>Coming soon.</p>
-          <div id="clock"></div>
         </div>
       </div>
     </div>
-    <script type="text/javascript">
-    jQuery(document).ready(function($) {
-    $('#clock').countdown('2017/06/01', function(event) {
-    $(this).html(event.strftime('%D:%H:%M:%S'));
-    });
-    });
-    </script>
   </body>
 </html>
